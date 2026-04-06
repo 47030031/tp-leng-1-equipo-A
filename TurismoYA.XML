@@ -1,0 +1,30 @@
+<?xml version= "1.0" encoding= "UTF-8"?>
+<?catalogo Version="1.0" Fecha="1/4/2026"?>
+<Catalogo>
+ <Destino ID="1">
+<Pais>Cuba</Pais>
+<Nombre>Habana</Nombre>
+<PrecioEnUSD>$1200</PrecioEnUSD>
+<Duracion>1Semana</Duracion>
+<Descripcion>Los mejores precios y vuelos en la punta de tu dedo</Descripcion>
+ </Destino>
+
+<Destino ID="2">
+<Pais>Japon</Pais>
+<Precio>$4000</Precio>
+<Nombre>Tokio</Nombre>
+<Duracion>2Semanas</Duracion>
+<Descripcion>Disfruta de las comidas más exoticas y de la cultura otaku</Descripcion>
+</Destino>
+
+<Destino ID="3">
+<pais>España</pais>
+<Precio>$1100</Precio>
+<Nombre>Madrid</Nombre>
+<Duracion>2Semanas</Duracion>
+<Descripcion>Lo mejor de la cultura española</Descripcion>
+</Destino>
+
+</Catalogo>
+ 
+
